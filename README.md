@@ -253,7 +253,7 @@
   <div class="cta-box">
     <p class="cta-headline">Looking for a reliable Social Media Manager<br>who shows up with structure and heart?</p>
     <p class="cta-sub">Whether you need someone to keep your content consistent and on-brand, or someone to handle the behind-the-scenes work that keeps your business organized. I show up with structure, attention to detail, and a genuine commitment to doing things well.</p>
-    <a class="cta-btn" href="https://wa.me/6283872572804" target="_blank" rel="noopener">&#9993;&nbsp; Book a Free Discovery Call</a>
+    <a class="cta-btn" href="https://calendly.com/putrihandayaniyuliana/free-30-minute-discovery-call" target="_blank" rel="noopener">&#128197;&nbsp; Book a Discovery Call</a>
   </div>
 
   <!-- FOOTER -->
